@@ -1,5 +1,7 @@
 ## Project Detail
-with this reactjs project we can add form value dynamicly in table without refresh page
+reactjs project make addressbook and with addressbook add form we can add values dynamically in table without refresh page 
+and it can sort by last name and set default values on load form
+
 Demo Project:-
 
 https://codesandbox.io/s/hungry-carson-krpr7
